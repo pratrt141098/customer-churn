@@ -1,4 +1,4 @@
-# customer-churn
+# customer segmentation for crms
 Introduction
 Customer Relationship Management (CRM) system is an information management and analysis tool that can help businesses and other organizations manage their interactions with customers.
 
